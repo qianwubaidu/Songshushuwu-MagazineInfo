@@ -1,0 +1,5 @@
+<fragment xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:id="@+id/fragment"
+    android:name="com.example.runsstudio.myapplication.MagazineInfoFragment"
+    tools:layout="@layout/fragment_magazine_info" android:layout_width="match_parent"
+    android:layout_height="match_parent" />
